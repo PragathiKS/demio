@@ -1,1 +1,5 @@
+<<<<<<< HEAD
 Hi dev1-Hi i am developer
+=======
+Hi dev2 - Hi i am developer
+>>>>>>> dev2
